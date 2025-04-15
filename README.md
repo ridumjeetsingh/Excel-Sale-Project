@@ -1,2 +1,76 @@
-# Excel-Sale-Project
-Designed an interactive Excel dashboard analyzing Vrinda Store’s 2022 sales data. Included dynamic charts, slicers, and custom age group logic using formulas. Highlighted insights on customer gender, order status, top states, and channels. Demonstrated strong data processing, visualization, and storytelling skills using Excel’s BI capabilities.
+# 🛍️ Vrinda Store - Excel Dashboard Project
+
+This is an interactive Excel dashboard created to analyze sales, orders, and customer demographics for a fictional fashion retail store called **Vrinda Store**. The dashboard is designed for business users and provides valuable insights through a clean, slicer-based layout.
+
+---
+
+## 📌 Key Features
+
+- 📊 **Orders vs Sales Trend** (Bar + Line chart)
+- 🧍‍♂️🧍‍♀️ **Sales Split by Gender**
+- 🧾 **Order Status Breakdown**
+- 🌍 **Top 5 States by Sales**
+- 👥 **Orders by Age & Gender**
+- 📦 **Sales by Channel (Ajio, Amazon, Flipkart, etc.)**
+- 🎛️ **Interactive Slicers** for Channel, Month, and Product Category
+
+---
+
+## 📂 Files Included
+
+| File | Description |
+|------|-------------|
+| `Vrinda_Store_Dashboard.xlsx` | Final dashboard file with interactive filters |
+| `Dashboard_Screenshot.png`    | Snapshot of the dashboard |
+| `data/raw_data.csv`           | Raw data used for analysis (optional) |
+| `data/cleaned_data.csv`       | Cleaned data after preprocessing |
+
+---
+
+## 🎨 Design Choices
+
+- **Color Palette**: Blue-gray theme for a professional, clean look
+- **Slicer Styling**: Customized slicers for intuitive filtering
+- **Chart Types**: Pie, donut, clustered bar, and combo charts
+- **Layout**: Balanced and modular grid layout for easy understanding
+
+---
+
+## 📈 Tools Used
+
+- Microsoft Excel (PivotTables, Charts, Slicers, Formatting)
+- Data Cleaning (within Excel)
+- Optional: Power Pivot or Power Query for backend modeling (if used)
+
+---
+
+## 💡 Insights Highlighted
+
+- Majority of sales come from **Amazon, Flipkart, and Myntra**
+- **Women** contribute to 64% of overall sales
+- Most orders are from **Maharashtra** and **Karnataka**
+- **Adults** are the highest purchasing age group
+- 92% of orders are successfully **Delivered**
+
+---
+
+## 📌 Use Cases
+
+- Great for showcasing Excel dashboard skills in portfolios
+- Demonstrates understanding of data storytelling
+- Useful for small businesses needing Excel-based reporting tools
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Dashboard_Screenshot.png)
+
+---
+
+## 🙋‍♂️ About Me
+
+Hi! I'm a Data Analyst passionate about turning raw data into actionable insights using tools like Excel, Power BI, SQL, and Python. Feel free to connect or fork this repo if you like the work!
+
+---
+
