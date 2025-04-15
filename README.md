@@ -67,10 +67,9 @@ This is an interactive Excel dashboard created to analyze sales, orders, and cus
 
 | File | Description |
 |------|-------------|
-| `Vrinda_Store_Dashboard.xlsx` | Final dashboard file with interactive filters |
-| `Dashboard_Screenshot.png`    | Snapshot of the dashboard |
-| `raw_file.xlsx`               | Raw data used for analysis (optional) |
-| `data/cleaned_data.csv`       | Cleaned data after preprocessing |
+| `Vrinda Store Data Analysis.xlsx` | Final dashboard file with interactive filters |
+| `Dashboard_Image.png`             | Snapshot of the dashboard |
+| `raw_file.xlsx`                   | Raw data used for analysis (optional) |
 
 ---
 
