@@ -111,7 +111,7 @@ This is an interactive Excel dashboard created to analyze sales, orders, and cus
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot]([Dashboard_Screenshot.png](https://github.com/ridumjeetsingh/Excel-Sale-Project/blob/main/Dashboard_Image.png))
 
 ---
 
