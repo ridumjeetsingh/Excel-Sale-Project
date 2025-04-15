@@ -15,6 +15,53 @@ This is an interactive Excel dashboard created to analyze sales, orders, and cus
 - 🎛️ **Interactive Slicers** for Channel, Month, and Product Category
 
 ---
+## 📐 Methodology
+### Data Cleaning
+
+- Removed duplicates, standardized column headers.
+
+- Created month columns and ensured numeric formatting.
+
+- Added calculated fields where necessary (e.g., total sales, order count).
+
+### Data Processing
+
+- Used IF() formulas to categorize customer ages into groups:
+
+- Teenager, Adult, Senior — based on defined age ranges.
+
+- Extracted Month names from the order date using the TEXT() function for better aggregation and trend analysis in charts.
+
+- Ensured proper data formatting (e.g., numeric types, date consistency).
+
+- Created additional calculated columns to support visualizations.
+
+### Dashboard Design in Excel
+
+- Built PivotTables as backend data sources.
+
+- Used Slicers for interactivity (Channel, Month, Category).
+
+### Developed visualizations:
+
+- Combo chart for Sales vs Orders trend.
+
+- Pie and Donut charts for gender and channel distributions.
+
+- Bar charts for state-wise sales and demographic analysis.
+
+### Styling & UX
+
+- Used a consistent blue-gray color scheme for a professional look.
+
+- Customized slicers for better user interaction.
+
+- Arranged charts in a modular layout for quick understanding.
+
+- Added 3D and shaded visuals to enhance impact without clutter.
+
+---
+
 
 ## 📂 Files Included
 
